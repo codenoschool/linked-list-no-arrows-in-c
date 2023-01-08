@@ -3,6 +3,21 @@
 This projects aims for creating a linked list data structure while using
 no arrow operator to access structure members in the C programing language.
 
+While it's a common things to access the members of a structure trough a
+pointer by using the arrow operator, how could we answer the following
+question:
+
+* How to access the members of a structure trough a pointer but
+without using the arrow operator?
+
+And even more complicated...
+
+* How can we access the members of a structure referenced in a pointer
+of a structure trough a pointer?
+
+Well... This project provides the source code of a program in the
+C language where you'll see the answer to those questions.
+
 # Features
 
 The following features (functions) are avaible in the source code:
